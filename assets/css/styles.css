@@ -93,6 +93,7 @@ header {
 	padding: 35px 100px 0;
 	animation: 1s fadein .5s forwards;
 	color: #fff;
+	z-index:20;
 }
 
 @keyframes fadein {
